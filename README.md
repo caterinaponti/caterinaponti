@@ -9,7 +9,7 @@ As a first-year student at the University of San Francisco pursuing a degree in 
 
 *   🌍  I'm based in San Francisco, CA
 *   ✉️  You can contact me at [cponti@dons.usfca.edu](mailto:cponti@dons.usfca.edu)
-*   🧠  I'm learning Pandas and NumPy libraries. I am currently studying Java.
+*   🧠  I'm learning R and SQL.
 *   🤝  I'm open to collaborating on projects.
 *   ⚡  I am originally from Perugia, Italy.
 *   ### Skills 
