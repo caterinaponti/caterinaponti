@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science and Neuroscience Student
 -------------------------------------
 
-As a first-year student at the University of San Francisco pursuing a degree in Data Science and a minor in Neuroscience, I am captivated by the myriad possibilities this field offers for real-world applications. I aspire to make a meaningful impact on the world. I am particularly drawn to the intersection of data science with critical areas such as healthcare and social justice, aiming to contribute my skills and knowledge to address pressing societal issues. Excited to embark on this journey of exploration and learning, I look forward to collaborating with like-minded individuals who share a commitment to harnessing the power of data for the betterment of our global community.
+As a raising junior at the University of San Francisco pursuing a degree in Data Science and a minor in Neuroscience, I am captivated by the myriad possibilities this field offers for real-world applications. I aspire to make a meaningful impact on the world. I am particularly drawn to the intersection of data science with critical areas such as healthcare and social justice, aiming to contribute my skills and knowledge to address pressing societal issues. Excited to embark on this journey of exploration and learning, I look forward to collaborating with like-minded individuals who share a commitment to harnessing the power of data for the betterment of our global community.
 
 *   🌍  I'm based in San Francisco, CA
 *   ✉️  You can contact me at [cponti@dons.usfca.edu](mailto:cponti@dons.usfca.edu)
